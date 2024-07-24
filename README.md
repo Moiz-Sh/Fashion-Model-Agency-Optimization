@@ -1,4 +1,4 @@
-# Sustainable Model Assignment Optimization - MGSC 662 Project
+# Fashion Model Agency Assignment Optimization - MGSC 662 Project
 
 ## Introduction
 In the fast-paced world of fashion, aligning the right models with the right jobs is a complex challenge. This project, completed as part of the Decision Analytics course (MGSC 662) at McGill University, elevates this process by not only streamlining job assignments but also embedding a deep commitment to sustainability. The focus was to account for a variety of constraints and objectives pertinent to a modeling agency's operations.
